@@ -1,4 +1,4 @@
-// https://codeforces.com/problemset/problem/382/B
+// https://codeforces.com/problemset/problem/1382/B
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp> 
