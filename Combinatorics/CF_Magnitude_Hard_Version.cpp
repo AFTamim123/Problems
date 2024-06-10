@@ -61,4 +61,10 @@ int32_t main() {
 }
 
 // HINT: apply operation 2 when prefix sum is most min
+// when current prefix sum at index i is minimum acroos the prefix array it with contribute to the answer pow(2,x+y)..
+// where x is number of positive elements before index i.(in those index we can apply both operation)
+// where y is number of total elements after index i.here we also can apply both operation.
+
+// do the avobe calculation for all index where prefix[i]==minimum 
+
 // https://codeforces.com/contest/1984/problem/C2
